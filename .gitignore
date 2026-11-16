@@ -1,0 +1,14 @@
+# macOS 系统文件
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# 备份与临时文件
+*.bak
+*.bak.*
+*.tmp
+*.swp
+
+# git 自身
+.git/
